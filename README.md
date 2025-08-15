@@ -4,4 +4,4 @@ A curated list of my web development projects.
 
 ### Fun Projects
 
-- [Advice Project](https://github.com/FardinMahadi/Advice-Guru)
+- [Advice Project](https://github.com/FardinMahadi/Advice-Guru) - A simple React app that fetches and displays random advice using the [Advice Slip API](https://api.adviceslip.com/). Built with Vite, React Router, and Tailwind CSS for fast development and modern UI.
